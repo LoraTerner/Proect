@@ -1,0 +1,30 @@
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(215, 194, 255);
+}
+
+.title img {
+    width: 108px;
+    height: 108px;
+    border-radius: 55px; 
+}
+.title h1 {
+    margin-left: 650px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.style {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(215, 194, 255);
+}
+
+.style h1 {
+    margin-left: 550px;
+}
